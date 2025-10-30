@@ -1,0 +1,24 @@
+# Build artifacts
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+
+# IDE-specific files
+*.VC.db
+*.VC.VC.opendb
